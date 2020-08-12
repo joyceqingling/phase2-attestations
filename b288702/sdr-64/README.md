@@ -2,22 +2,19 @@
 
 | Participant ID | Identity | GPG key | Attestation |
 |-|-|-|-|
-| 0001 | | | |
-| 0002 | | | |
-| 0003 | | | |
-| 0004 | | | |
-| 0005 | | | |
-| 0006 | | | |
-| 0007 | | | |
-| 0008 | | | |
-| 0009 | | | |
-| 0010 | | | |
-| 0011 | | | |
-| 0012 | | | |
-| 0013 | | | |
-| 0014 | | | |
-| 0015 | | | |
-| 0016 | | | |
-| 0017 | | | |
-| 0018 | | | |
-| 0019 | | | |
+| 0001 | IPFSMain | | |
+| 0002 | DecentralTech | | |
+| 0003 | Diancun / Jack | | |
+| 0004 | Coinsummer / Cobo / K | | |
+| 0005 | Factor8 / Patrick| | |
+| 0006 | Supranational / Simon | | |
+| 0007 | James Hanson | | |
+| 0008 | Angelov | | |
+| 0009 | Filecoin / Dignifiedquire | | |
+| 0010 | Filecoin / Drpetervannostrand | | |
+| 0011 | Filecoin / Whyrusleeping | | |
+| 0012 | Filecoin Porcuquine | | |
+| 0013 | Ocean / Alex Corseru | | |
+| 0014 | JP Aumussen | | |
+| 0015 | Filecoin / Nemo | | |
+| 0016 | Aztec / Ariel Gazibon | | |
