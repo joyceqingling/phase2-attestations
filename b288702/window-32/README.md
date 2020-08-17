@@ -1,23 +1,19 @@
-## Ceremony progress
+### Window PoSt 32
 
-| Participant ID | Identity | GPG key | Attestation |
-|-|-|-|-|
-| 0001 | | | |
-| 0002 | | | |
-| 0003 | | | |
-| 0004 | | | |
-| 0005 | | | |
-| 0006 | | | |
-| 0007 | | | |
-| 0008 | | | |
-| 0009 | | | |
-| 0010 | | | |
-| 0011 | | | |
-| 0012 | | | |
-| 0013 | | | |
-| 0014 | | | |
-| 0015 | | | |
-| 0016 | | | |
-| 0017 | | | |
-| 0018 | | | |
-| 0019 | | | |
+| Participant number | Identity | GPG key | Attestation                                                                                                                                                                                       |
+| -: | --------------------- |- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1 | IPFSMain / Neo        | [GPG](https://github.com/NeoGe-IPFSMain.gpg) | [Contribution]() [Signature](https://github.com/filecoin-project/phase2-attestations/blob/0fa121e02fcef3a74b90e489b18dfff85af79c42/b288702/window-32/window_poseidon_32ib_b288702_1_small_raw.contrib.sig)  |
+|  2 | Grandhelmsmen         | [GPG](https://gist.github.com/chenzhi201901/2dd49120717a7c9c0c0798841c22c3a0) | [Contribution]() [Signature](https://github.com/filecoin-project/phase2-attestations/blob/0fa121e02fcef3a74b90e489b18dfff85af79c42/b288702/window-32/window_poseidon_32ib_b288702_2_small_raw.contrib.sig)  |
+|  3 | DianCun               | [GPG](https://gist.github.com/wangyancun/98952c06e8382f0b868f3d2af62f7bb2) | [Contribution]() [Signature](https://github.com/filecoin-project/phase2-attestations/blob/0fa121e02fcef3a74b90e489b18dfff85af79c42/b288702/window-32/window_poseidon_32ib_b288702_3_small_raw.contrib.sig)  |
+|  4 | BoringWang            | [GPG](https://gist.github.com/pulupulu01/9567509de8adae4a18a59e9ff8089226) | [Contribution]() [Signature](https://github.com/filecoin-project/phase2-attestations/blob/0fa121e02fcef3a74b90e489b18dfff85af79c42/b288702/window-32/window_poseidon_32ib_b288702_4_small_raw.contrib.sig)  |
+|  5 | DecentralTech         | Unsigned | [Contribution]() [Signature](https://github.com/filecoin-project/phase2-attestations/blob/0fa121e02fcef3a74b90e489b18dfff85af79c42/b288702/window-32/window_poseidon_32ib_b288702_5_small_raw.contrib.sig)  |
+|  6 | IPFS-Force | [GPG](https://gist.github.com/steven004/1caead397993ac6f8f12efaa0e5ab870) | [Contribution]() [Signature](https://github.com/filecoin-project/phase2-attestations/blob/0fa121e02fcef3a74b90e489b18dfff85af79c42/b288702/window-32/window_poseidon_32ib_b288702_6_small_raw.contrib.sig)  |
+|  7 | Cobo                  | [GPG](https://gist.github.com/ksaynice/24421bae8194bc3cf3cd3e671c1293c2) | [Contribution]() [Signature](https://github.com/filecoin-project/phase2-attestations/blob/0fa121e02fcef3a74b90e489b18dfff85af79c42/b288702/window-32/window_poseidon_32ib_b288702_7_small_raw.contrib.sig)  |
+|  8 | Ocean / Alex Corseru  | [GPG](https://github.com/alexcos20.gpg) | [Contribution]() [Signature](https://github.com/filecoin-project/phase2-attestations/blob/0fa121e02fcef3a74b90e489b18dfff85af79c42/b288702/window-32/window_poseidon_32ib_b288702_8_small_raw.contrib.sig)  |
+|  9 | Filecoin / Why        | [GPG](https://gist.github.com/whyrusleeping/0180604d35da0d54875b22a72b125046) | [Contribution]() [Signature](https://github.com/filecoin-project/phase2-attestations/blob/0fa121e02fcef3a74b90e489b18dfff85af79c42/b288702/window-32/window_poseidon_32ib_b288702_9_small_raw.contrib.sig)  |
+| 10 | Supranational         | [GPG](https://gist.github.com/simonatsn/b7834bc727ec98e2953e678beffd1ee8) | [Contribution]() [Signature](https://github.com/filecoin-project/phase2-attestations/blob/0fa121e02fcef3a74b90e489b18dfff85af79c42/b288702/window-32/window_poseidon_32ib_b288702_10_small_raw.contrib.sig) |
+| 11 | Filecoin / Porcuquine | [GPG](https://keybase.io/porcuquine/pgp_keys.asc) | [Contribution]() [Signature](https://github.com/filecoin-project/phase2-attestations/blob/0fa121e02fcef3a74b90e489b18dfff85af79c42/b288702/window-32/window_poseidon_32ib_b288702_11_small_raw.contrib.sig) |
+| 12 | Troels Henriksen      | [GPG](https://sigkill.dk/pubkey.asc) | [Contribution]() [Signature](https://github.com/filecoin-project/phase2-attestations/blob/0fa121e02fcef3a74b90e489b18dfff85af79c42/b288702/window-32/window_poseidon_32ib_b288702_12_small_raw.contrib.sig) |
+| 13 | Vulcanize / A. F. Dudley | [GPG](https://pgp.mit.edu/pks/lookup?op=get&search=0x8B803A0DEF1F5BF2) | [Contribution]() [Signature](https://github.com/filecoin-project/phase2-attestations/blob/0fa121e02fcef3a74b90e489b18dfff85af79c42/b288702/window-32/window_poseidon_32ib_b288702_13_small_raw.contrib.sig) |
+| 14 | Filecoin / Nemo       | [GPG](https://gist.github.com/cryptonemo/c3e3a120199de6c015d09709a6ef03f5) | [Contribution]() [Signature](https://github.com/filecoin-project/phase2-attestations/blob/0fa121e02fcef3a74b90e489b18dfff85af79c42/b288702/window-32/window_poseidon_32ib_b288702_14_small_raw.contrib.sig) |
+| 15 | Aztec / Ariel Gazibon | [GPG](https://drive.google.com/file/d/1mEoBDniy60zWkAC07n5VHw8YjSjAewc6/view) | [Contribution]() [Signature](https://github.com/filecoin-project/phase2-attestations/blob/0fa121e02fcef3a74b90e489b18dfff85af79c42/b288702/window-32/window_poseidon_32ib_b288702_15_small_raw.contrib.sig) |
